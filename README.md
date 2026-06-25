@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Nawaz+%F0%9F%91%8B;IT+Analyst+%7C+BI+Engineer+%7C+Web+Dev;Building+Retail+Intelligence+Systems;Founder+%40+TheStackLoom)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Nawaz+%F0%9F%91%8B;IT+Analyst+%7C+BI+Engineer+%7C+Web+Dev;Building+Retail+Intelligence+Systems;Founder+%40+TheStackLoom)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,6 +11,10 @@
 [![Instagram](https://img.shields.io/badge/@thestackloom-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thestackloom)
 [![Instagram Personal](https://img.shields.io/badge/@nawazkhan.02-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nawazkhan.02)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nawazimrozkhan)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nawazimrozkhan&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -24,6 +27,16 @@ I'm a **22-year-old IT Analyst and self-taught developer** from Warangal, Telang
 At **a FASHION RETAIL COMPANY** (25+ stores across Telangana & AP), I architect business intelligence systems that move beyond standard ERP outputs — building decision-support dashboards, automated reporting pipelines, and data infrastructure from the ground up.
 
 On the side, I run **[TheStackLoom](https://instagram.com/thestackloom)** — a freelance web development brand targeting local businesses in Warangal and Hyderabad.
+
+---
+
+## 🔥 Currently Working On
+
+```text
+📦 reports.kasamfashions   →  Live retail reporting system for 25+ stores (Python + Ginesys)
+🦷 Dental App Demo         →  Client web app under TheStackLoom
+🎫 Support Tickets System  →  Internal IT ticketing tool for Kasam Fashions
+```
 
 ---
 
@@ -67,10 +80,17 @@ On the side, I run **[TheStackLoom](https://instagram.com/thestackloom)** — a 
 
 ## 🚀 Featured Projects
 
-### 🏪 [Sales Analytics Dashboard](https://github.com/nawazimrozkhan/sales_dashboard)
-> Multi-year Streamlit BI dashboard for a 25+ store retail chain — frozen FY parquet architecture, division-wise analytics (Sarees, Ladies Wear, Mens, Kids), IST recommendations, and a PIN-protected admin panel.
+### 🏪 [Kasam Fashions — Retail Reports System](https://github.com/nawazimrozkhan/reports.kasamfashions)
+> Live Python-based reporting pipeline for a 25+ store fashion retail chain across Telangana & AP. Automates daily sales, SOH, and division-wise analytics directly from Ginesys ERP exports.
 
-`Python` `Streamlit` `Pandas` `Parquet` `Ginesys ERP`
+`Python` `Pandas` `Ginesys ERP` `Automation`
+
+---
+
+### 📊 [Sales Analytics Dashboard](https://github.com/nawazimrozkhan/sales_dashboard)
+> Multi-year Streamlit BI dashboard — frozen FY parquet architecture, division-wise analytics (Sarees, Ladies Wear, Mens, Kids), IST recommendations, and a PIN-protected admin panel.
+
+`Python` `Streamlit` `Pandas` `Parquet`
 
 ---
 
@@ -82,14 +102,14 @@ On the side, I run **[TheStackLoom](https://instagram.com/thestackloom)** — a 
 ---
 
 ### 🏋️ NOVAFIT — Gym Management SaaS *(TheStackLoom)*
-> 5-panel role-based SaaS (owner, receptionist, trainer, member, superadmin) built with React + Firebase.
+> 5-panel role-based SaaS (owner, receptionist, trainer, member, superadmin) built with React + Firebase. Deployed at novafit-edbe5.web.app
 
 `React` `Firebase` `Firestore` `PWA`
 
 ---
 
-### 🎂 A1 Cake Shoppe Website *(TheStackLoom Client)*
-> Professional business website for a local Warangal bakery — warm cream/rose-red palette, WhatsApp ordering integration, built on Next.js.
+### 🎂 A1 Cake Shoppe *(TheStackLoom Client)*
+> Professional business website for a local Warangal bakery — warm cream/rose-red palette, WhatsApp ordering integration.
 
 `Next.js` `React` `TailwindCSS`
 
@@ -122,6 +142,16 @@ On the side, I run **[TheStackLoom](https://instagram.com/thestackloom)** — a 
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nawazimrozkhan&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 🌐 TheStackLoom
 
 > **Freelance Web Development · Warangal & Hyderabad**
@@ -137,7 +167,5 @@ I help local businesses build fast, modern websites and web apps — from bakeri
 **Open to freelance projects · Retail tech consulting · Gulf opportunities**
 
 `Warangal, Telangana 🇮🇳` · *Targeting Gulf markets 🌙*
-
-![Profile Views](https://komarev.com/ghpvc/?username=nawazimrozkhan&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
