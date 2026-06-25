@@ -21,7 +21,7 @@
 
 I'm a **22-year-old IT Analyst and self-taught developer** from Warangal, Telangana — working at the intersection of **retail data engineering**, **ERP systems**, and **full-stack web development**.
 
-At **Kasam Fashions** (25+ stores across Telangana & AP), I architect business intelligence systems that move beyond standard ERP outputs — building decision-support dashboards, automated reporting pipelines, and data infrastructure from the ground up.
+At **a Fashions Retail Industry** (25+ stores across Telangana & AP), I architect business intelligence systems that move beyond standard ERP outputs — building decision-support dashboards, automated reporting pipelines, and data infrastructure from the ground up.
 
 On the side, I run **[TheStackLoom](https://instagram.com/thestackloom)** — a freelance web development brand targeting local businesses in Warangal and Hyderabad.
 
@@ -67,7 +67,7 @@ On the side, I run **[TheStackLoom](https://instagram.com/thestackloom)** — a 
 
 ## 🚀 Featured Projects
 
-### 🏪 [Kasam Fashions Sales Analytics Dashboard](https://github.com/nawazimrozkhan/sales_dashboard)
+### 🏪 [Sales Analytics Dashboard](https://github.com/nawazimrozkhan/sales_dashboard)
 > Multi-year Streamlit BI dashboard for a 25+ store retail chain — frozen FY parquet architecture, division-wise analytics (Sarees, Ladies Wear, Mens, Kids), IST recommendations, and a PIN-protected admin panel.
 
 `Python` `Streamlit` `Pandas` `Parquet` `Ginesys ERP`
