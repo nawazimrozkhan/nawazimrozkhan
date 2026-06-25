@@ -21,7 +21,7 @@
 
 I'm a **22-year-old IT Analyst and self-taught developer** from Warangal, Telangana — working at the intersection of **retail data engineering**, **ERP systems**, and **full-stack web development**.
 
-At **a Fashions Retail Industry** (25+ stores across Telangana & AP), I architect business intelligence systems that move beyond standard ERP outputs — building decision-support dashboards, automated reporting pipelines, and data infrastructure from the ground up.
+At **Kasam Fashions** (25+ stores across Telangana & AP), I architect business intelligence systems that move beyond standard ERP outputs — building decision-support dashboards, automated reporting pipelines, and data infrastructure from the ground up.
 
 On the side, I run **[TheStackLoom](https://instagram.com/thestackloom)** — a freelance web development brand targeting local businesses in Warangal and Hyderabad.
 
@@ -67,7 +67,7 @@ On the side, I run **[TheStackLoom](https://instagram.com/thestackloom)** — a 
 
 ## 🚀 Featured Projects
 
-### 🏪 [Sales Analytics Dashboard](https://github.com/nawazimrozkhan/sales_dashboard)
+### 🏪 [Kasam Fashions Sales Analytics Dashboard](https://github.com/nawazimrozkhan/sales_dashboard)
 > Multi-year Streamlit BI dashboard for a 25+ store retail chain — frozen FY parquet architecture, division-wise analytics (Sarees, Ladies Wear, Mens, Kids), IST recommendations, and a PIN-protected admin panel.
 
 `Python` `Streamlit` `Pandas` `Parquet` `Ginesys ERP`
@@ -92,6 +92,16 @@ On the side, I run **[TheStackLoom](https://instagram.com/thestackloom)** — a 
 > Professional business website for a local Warangal bakery — warm cream/rose-red palette, WhatsApp ordering integration, built on Next.js.
 
 `Next.js` `React` `TailwindCSS`
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nawazimrozkhan/nawazimrozkhan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nawazimrozkhan/nawazimrozkhan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nawazimrozkhan/nawazimrozkhan/output/github-snake.svg" />
+</picture>
 
 ---
 
