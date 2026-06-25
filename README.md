@@ -5,7 +5,7 @@
 
 <br/>
 
-**`IT Analyst @ Kasam Fashions · Freelance Dev @ TheStackLoom · Warangal, Telangana`**
+**`IT Analyst @ FASHION RETAIL COMPANY · Freelance Dev @ TheStackLoom · Warangal, Telangana`**
 
 <br/>
 
